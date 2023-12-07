@@ -1,0 +1,1 @@
+from .clean_artifact_after_cut import CleanArtifactAfterCutInvocation
